@@ -1,0 +1,2984 @@
+{
+  "RAL 1000": {
+    "RGB": {
+      "R": 205,
+      "G": 186,
+      "B": 136
+    },
+    "HEX": "#CDBA88",
+    "OFFICIAL_NAME": "Green beige",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Тёплый песок",
+      "UKRAINIAN": "Теплий пісок",
+      "ENGLISH": "Warm sand"
+    }
+  },
+  "RAL 1001": {
+    "RGB": {
+      "R": 208,
+      "G": 176,
+      "B": 132
+    },
+    "HEX": "#D0B084",
+    "OFFICIAL_NAME": "Beige",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Светлый песок",
+      "UKRAINIAN": "Світлий пісок",
+      "ENGLISH": "Light sand"
+    }
+  },
+  "RAL 1002": {
+    "RGB": {
+      "R": 210,
+      "G": 170,
+      "B": 109
+    },
+    "HEX": "#D2AA6D",
+    "OFFICIAL_NAME": "Sand yellow",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Песочный жёлтый",
+      "UKRAINIAN": "Піщано-жовтий",
+      "ENGLISH": "Sandy yellow"
+    }
+  },
+  "RAL 1003": {
+    "RGB": {
+      "R": 249,
+      "G": 168,
+      "B": 0
+    },
+    "HEX": "#F9A800",
+    "OFFICIAL_NAME": "Signal yellow",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Яркий жёлтый",
+      "UKRAINIAN": "Яскравий жовтий",
+      "ENGLISH": "Signal yellow"
+    }
+  },
+  "RAL 1004": {
+    "RGB": {
+      "R": 228,
+      "G": 158,
+      "B": 0
+    },
+    "HEX": "#E49E00",
+    "OFFICIAL_NAME": "Golden yellow",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Золотистый жёлтый",
+      "UKRAINIAN": "Золотистий жовтий",
+      "ENGLISH": "Golden yellow"
+    }
+  },
+  "RAL 1005": {
+    "RGB": {
+      "R": 203,
+      "G": 142,
+      "B": 0
+    },
+    "HEX": "#CB8E00",
+    "OFFICIAL_NAME": "Honey yellow",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Мёд",
+      "UKRAINIAN": "Медовий",
+      "ENGLISH": "Honey"
+    }
+  },
+  "RAL 1006": {
+    "RGB": {
+      "R": 226,
+      "G": 144,
+      "B": 0
+    },
+    "HEX": "#E29000",
+    "OFFICIAL_NAME": "Maize yellow",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Кукурузный",
+      "UKRAINIAN": "Кукурудзяний",
+      "ENGLISH": "Corn yellow"
+    }
+  },
+  "RAL 1007": {
+    "RGB": {
+      "R": 232,
+      "G": 140,
+      "B": 0
+    },
+    "HEX": "#E88C00",
+    "OFFICIAL_NAME": "Daffodil yellow",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Нарцисс",
+      "UKRAINIAN": "Нарцис",
+      "ENGLISH": "Daffodil yellow"
+    }
+  },
+  "RAL 1011": {
+    "RGB": {
+      "R": 175,
+      "G": 128,
+      "B": 79
+    },
+    "HEX": "#AF804F",
+    "OFFICIAL_NAME": "Brown beige",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Карамель",
+      "UKRAINIAN": "Карамель",
+      "ENGLISH": "Caramel beige"
+    }
+  },
+  "RAL 1012": {
+    "RGB": {
+      "R": 221,
+      "G": 175,
+      "B": 39
+    },
+    "HEX": "#DDAF27",
+    "OFFICIAL_NAME": "Lemon yellow",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Лимонный",
+      "UKRAINIAN": "Лимонний",
+      "ENGLISH": "Lemon yellow"
+    }
+  },
+  "RAL 1013": {
+    "RGB": {
+      "R": 227,
+      "G": 217,
+      "B": 198
+    },
+    "HEX": "#E3D9C6",
+    "OFFICIAL_NAME": "Oyster white",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Молочный",
+      "UKRAINIAN": "Молочний",
+      "ENGLISH": "Milky white"
+    }
+  },
+  "RAL 1014": {
+    "RGB": {
+      "R": 221,
+      "G": 196,
+      "B": 154
+    },
+    "HEX": "#DDC49A",
+    "OFFICIAL_NAME": "Ivory",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Слоновая кость",
+      "UKRAINIAN": "Слонова кістка",
+      "ENGLISH": "Ivory"
+    }
+  },
+  "RAL 1015": {
+    "RGB": {
+      "R": 230,
+      "G": 210,
+      "B": 181
+    },
+    "HEX": "#E6D2B5",
+    "OFFICIAL_NAME": "Light ivory",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Слоновая кость",
+      "UKRAINIAN": "Слонова кістка",
+      "ENGLISH": "Light ivory"
+    }
+  },
+  "RAL 1016": {
+    "RGB": {
+      "R": 241,
+      "G": 221,
+      "B": 56
+    },
+    "HEX": "#F1DD38",
+    "OFFICIAL_NAME": "Sulfur yellow",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Сернистый жёлтый",
+      "UKRAINIAN": "Сірчаний жовтий",
+      "ENGLISH": "Sulfur yellow"
+    }
+  },
+  "RAL 1017": {
+    "RGB": {
+      "R": 246,
+      "G": 169,
+      "B": 80
+    },
+    "HEX": "#F6A950",
+    "OFFICIAL_NAME": "Saffron yellow",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Шафран",
+      "UKRAINIAN": "Шафран",
+      "ENGLISH": "Saffron"
+    }
+  },
+  "RAL 1018": {
+    "RGB": {
+      "R": 250,
+      "G": 202,
+      "B": 48
+    },
+    "HEX": "#FACA30",
+    "OFFICIAL_NAME": "Zinc yellow",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Цинковый жёлтый",
+      "UKRAINIAN": "Цинковий жовтий",
+      "ENGLISH": "Zinc yellow"
+    }
+  },
+  "RAL 1019": {
+    "RGB": {
+      "R": 164,
+      "G": 143,
+      "B": 122
+    },
+    "HEX": "#A48F7A",
+    "OFFICIAL_NAME": "Grey beige",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Серо-бежевый",
+      "UKRAINIAN": "Сіро-бежевий",
+      "ENGLISH": "Grey beige"
+    }
+  },
+  "RAL 1020": {
+    "RGB": {
+      "R": 160,
+      "G": 143,
+      "B": 101
+    },
+    "HEX": "#A08F65",
+    "OFFICIAL_NAME": "Olive yellow",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Оливково-жёлтый",
+      "UKRAINIAN": "Оливково-жовтий",
+      "ENGLISH": "Olive yellow"
+    }
+  },
+  "RAL 1021": {
+    "RGB": {
+      "R": 246,
+      "G": 182,
+      "B": 0
+    },
+    "HEX": "#F6B600",
+    "OFFICIAL_NAME": "Colza yellow",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Рапсовый",
+      "UKRAINIAN": "Ріпаковий",
+      "ENGLISH": "Rapeseed yellow"
+    }
+  },
+  "RAL 1023": {
+    "RGB": {
+      "R": 247,
+      "G": 181,
+      "B": 0
+    },
+    "HEX": "#F7B500",
+    "OFFICIAL_NAME": "Traffic yellow",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Дорожный жёлтый",
+      "UKRAINIAN": "Дорожній жовтий",
+      "ENGLISH": "Traffic yellow"
+    }
+  },
+  "RAL 1024": {
+    "RGB": {
+      "R": 186,
+      "G": 143,
+      "B": 76
+    },
+    "HEX": "#BA8F4C",
+    "OFFICIAL_NAME": "Ochre yellow",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Охра",
+      "UKRAINIAN": "Охра",
+      "ENGLISH": "Ochre yellow"
+    }
+  },
+  "RAL 1026": {
+    "RGB": {
+      "R": 255,
+      "G": 255,
+      "B": 0
+    },
+    "HEX": "#FFFF00",
+    "OFFICIAL_NAME": "Luminous yellow",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Светящийся жёлтый",
+      "UKRAINIAN": "Світний жовтий",
+      "ENGLISH": "Luminous yellow"
+    }
+  },
+  "RAL 1027": {
+    "RGB": {
+      "R": 167,
+      "G": 127,
+      "B": 14
+    },
+    "HEX": "#A77F0E",
+    "OFFICIAL_NAME": "Curry",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Карри",
+      "UKRAINIAN": "Карі",
+      "ENGLISH": "Curry"
+    }
+  },
+  "RAL 1028": {
+    "RGB": {
+      "R": 255,
+      "G": 155,
+      "B": 0
+    },
+    "HEX": "#FF9B00",
+    "OFFICIAL_NAME": "Melon yellow",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Дынный",
+      "UKRAINIAN": "Динний",
+      "ENGLISH": "Melon yellow"
+    }
+  },
+  "RAL 1032": {
+    "RGB": {
+      "R": 226,
+      "G": 163,
+      "B": 0
+    },
+    "HEX": "#E2A300",
+    "OFFICIAL_NAME": "Broom yellow",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Цвет метёлки",
+      "UKRAINIAN": "Мітловий жовтий",
+      "ENGLISH": "Broom yellow"
+    }
+  },
+  "RAL 1033": {
+    "RGB": {
+      "R": 249,
+      "G": 154,
+      "B": 28
+    },
+    "HEX": "#F99A1C",
+    "OFFICIAL_NAME": "Dahlia yellow",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Георгиновый",
+      "UKRAINIAN": "Жоржиновий",
+      "ENGLISH": "Dahlia yellow"
+    }
+  },
+  "RAL 1034": {
+    "RGB": {
+      "R": 235,
+      "G": 156,
+      "B": 82
+    },
+    "HEX": "#EB9C52",
+    "OFFICIAL_NAME": "Pastel yellow",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Пастельный жёлтый",
+      "UKRAINIAN": "Пастельний жовтий",
+      "ENGLISH": "Pastel yellow"
+    }
+  },
+  "RAL 1035": {
+    "RGB": {
+      "R": 144,
+      "G": 131,
+      "B": 112
+    },
+    "HEX": "#908370",
+    "OFFICIAL_NAME": "Pearl beige",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Перламутровый бежевый",
+      "UKRAINIAN": "Перламутровий бежевий",
+      "ENGLISH": "Pearl beige"
+    }
+  },
+  "RAL 1036": {
+    "RGB": {
+      "R": 128,
+      "G": 100,
+      "B": 63
+    },
+    "HEX": "#80643F",
+    "OFFICIAL_NAME": "Pearl gold",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Золотой перламутр",
+      "UKRAINIAN": "Золотий перламутр",
+      "ENGLISH": "Pearl gold"
+    }
+  },
+  "RAL 1037": {
+    "RGB": {
+      "R": 240,
+      "G": 146,
+      "B": 0
+    },
+    "HEX": "#F09200",
+    "OFFICIAL_NAME": "Sun yellow",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Солнечный жёлтый",
+      "UKRAINIAN": "Сонячно-жовтий",
+      "ENGLISH": "Sun yellow"
+    }
+  },
+  "RAL 2000": {
+    "RGB": {
+      "R": 218,
+      "G": 110,
+      "B": 0
+    },
+    "HEX": "#DA6E00",
+    "OFFICIAL_NAME": "Yellow orange",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Апельсиновый жёлто-оранжевый",
+      "UKRAINIAN": "Жовтогарячий апельсин",
+      "ENGLISH": "Orange peel"
+    }
+  },
+  "RAL 2001": {
+    "RGB": {
+      "R": 186,
+      "G": 72,
+      "B": 27
+    },
+    "HEX": "#BA481B",
+    "OFFICIAL_NAME": "Red orange",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Ржавый апельсин",
+      "UKRAINIAN": "Іржавий апельсин",
+      "ENGLISH": "Rusty orange"
+    }
+  },
+  "RAL 2002": {
+    "RGB": {
+      "R": 191,
+      "G": 57,
+      "B": 34
+    },
+    "HEX": "#BF3922",
+    "OFFICIAL_NAME": "Vermilion",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Красный коралл",
+      "UKRAINIAN": "Червоний корал",
+      "ENGLISH": "Vermilion coral"
+    }
+  },
+  "RAL 2003": {
+    "RGB": {
+      "R": 246,
+      "G": 120,
+      "B": 40
+    },
+    "HEX": "#F67828",
+    "OFFICIAL_NAME": "Pastel orange",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Пастельный апельсин",
+      "UKRAINIAN": "Пастельний апельсин",
+      "ENGLISH": "Pastel orange"
+    }
+  },
+  "RAL 2004": {
+    "RGB": {
+      "R": 226,
+      "G": 83,
+      "B": 3
+    },
+    "HEX": "#E25303",
+    "OFFICIAL_NAME": "Pure orange",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Чистый оранжевый",
+      "UKRAINIAN": "Чистий оранжевий",
+      "ENGLISH": "Pure orange"
+    }
+  },
+  "RAL 2005": {
+    "RGB": {
+      "R": 255,
+      "G": 77,
+      "B": 6
+    },
+    "HEX": "#FF4D06",
+    "OFFICIAL_NAME": "Luminous orange",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Светящийся апельсин",
+      "UKRAINIAN": "Яскравий апельсин",
+      "ENGLISH": "Luminous orange"
+    }
+  },
+  "RAL 2007": {
+    "RGB": {
+      "R": 255,
+      "G": 178,
+      "B": 0
+    },
+    "HEX": "#FFB200",
+    "OFFICIAL_NAME": "Luminous bright orange",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "2009",
+      "UKRAINIAN": "2009",
+      "ENGLISH": "2009"
+    }
+  },
+  "RAL 2008": {
+    "RGB": {
+      "R": 237,
+      "G": 107,
+      "B": 33
+    },
+    "HEX": "#ED6B21",
+    "OFFICIAL_NAME": "Bright red orange",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "2010",
+      "UKRAINIAN": "2010",
+      "ENGLISH": "2010"
+    }
+  },
+  "RAL 2009": {
+    "RGB": {
+      "R": 222,
+      "G": 83,
+      "B": 7
+    },
+    "HEX": "#DE5307",
+    "OFFICIAL_NAME": "Traffic orange",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "2011",
+      "UKRAINIAN": "2011",
+      "ENGLISH": "2011"
+    }
+  },
+  "RAL 2010": {
+    "RGB": {
+      "R": 208,
+      "G": 93,
+      "B": 40
+    },
+    "HEX": "#D05D28",
+    "OFFICIAL_NAME": "Signal orange",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "2012",
+      "UKRAINIAN": "2012",
+      "ENGLISH": "2012"
+    }
+  },
+  "RAL 2011": {
+    "RGB": {
+      "R": 226,
+      "G": 110,
+      "B": 14
+    },
+    "HEX": "#E26E0E",
+    "OFFICIAL_NAME": "Deep orange",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "2013",
+      "UKRAINIAN": "2013",
+      "ENGLISH": "2013"
+    }
+  },
+  "RAL 2012": {
+    "RGB": {
+      "R": 213,
+      "G": 101,
+      "B": 77
+    },
+    "HEX": "#D5654D",
+    "OFFICIAL_NAME": "Salmon orange",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Неоновый апельсин",
+      "UKRAINIAN": "Неоновий апельсин",
+      "ENGLISH": "Neon orange"
+    }
+  },
+  "RAL 2013": {
+    "RGB": {
+      "R": 146,
+      "G": 62,
+      "B": 37
+    },
+    "HEX": "#923E25",
+    "OFFICIAL_NAME": "Pearl orange",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Огненно-апельсиновый",
+      "UKRAINIAN": "Вогняно-помаранчевий",
+      "ENGLISH": "Fiery orange"
+    }
+  },
+  "RAL 3000": {
+    "RGB": {
+      "R": 167,
+      "G": 41,
+      "B": 32
+    },
+    "HEX": "#A72920",
+    "OFFICIAL_NAME": "Flame red",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Пламенный красный",
+      "UKRAINIAN": "Вогняний червоний",
+      "ENGLISH": "Flame red"
+    }
+  },
+  "RAL 3001": {
+    "RGB": {
+      "R": 155,
+      "G": 36,
+      "B": 35
+    },
+    "HEX": "#9B2423",
+    "OFFICIAL_NAME": "Signal red",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Сигнальный красный",
+      "UKRAINIAN": "Сигнальний червоний",
+      "ENGLISH": "Signal red"
+    }
+  },
+  "RAL 3002": {
+    "RGB": {
+      "R": 155,
+      "G": 35,
+      "B": 33
+    },
+    "HEX": "#9B2321",
+    "OFFICIAL_NAME": "Carmine red",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Кармин",
+      "UKRAINIAN": "Кармін",
+      "ENGLISH": "Carmine"
+    }
+  },
+  "RAL 3003": {
+    "RGB": {
+      "R": 134,
+      "G": 26,
+      "B": 34
+    },
+    "HEX": "#861A22",
+    "OFFICIAL_NAME": "Ruby red",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Рубиновый",
+      "UKRAINIAN": "Рубіновий",
+      "ENGLISH": "Ruby"
+    }
+  },
+  "RAL 3004": {
+    "RGB": {
+      "R": 107,
+      "G": 28,
+      "B": 35
+    },
+    "HEX": "#6B1C23",
+    "OFFICIAL_NAME": "Purple red",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Винно-красный",
+      "UKRAINIAN": "Бордовий",
+      "ENGLISH": "Wine red"
+    }
+  },
+  "RAL 3005": {
+    "RGB": {
+      "R": 89,
+      "G": 25,
+      "B": 31
+    },
+    "HEX": "#59191F",
+    "OFFICIAL_NAME": "Wine red",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Красное вино",
+      "UKRAINIAN": "Червоне вино",
+      "ENGLISH": "Red wine"
+    }
+  },
+  "RAL 3007": {
+    "RGB": {
+      "R": 62,
+      "G": 32,
+      "B": 34
+    },
+    "HEX": "#3E2022",
+    "OFFICIAL_NAME": "Black red",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Чёрно-красный",
+      "UKRAINIAN": "Чорно-червоний",
+      "ENGLISH": "Black cherry"
+    }
+  },
+  "RAL 3009": {
+    "RGB": {
+      "R": 109,
+      "G": 52,
+      "B": 45
+    },
+    "HEX": "#6D342D",
+    "OFFICIAL_NAME": "Oxide red",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Кирпичный",
+      "UKRAINIAN": "Цегляний",
+      "ENGLISH": "Brick red"
+    }
+  },
+  "RAL 3011": {
+    "RGB": {
+      "R": 121,
+      "G": 36,
+      "B": 35
+    },
+    "HEX": "#792423",
+    "OFFICIAL_NAME": "Brown red",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Терракотовый",
+      "UKRAINIAN": "Теракотовий",
+      "ENGLISH": "Terracotta"
+    }
+  },
+  "RAL 3012": {
+    "RGB": {
+      "R": 198,
+      "G": 132,
+      "B": 109
+    },
+    "HEX": "#C6846D",
+    "OFFICIAL_NAME": "Beige red",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Бежево-красный",
+      "UKRAINIAN": "Бежево-червоний",
+      "ENGLISH": "Sandy rose"
+    }
+  },
+  "RAL 3013": {
+    "RGB": {
+      "R": 151,
+      "G": 46,
+      "B": 37
+    },
+    "HEX": "#972E25",
+    "OFFICIAL_NAME": "Tomato red",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Томатный",
+      "UKRAINIAN": "Томатний",
+      "ENGLISH": "Tomato red"
+    }
+  },
+  "RAL 3014": {
+    "RGB": {
+      "R": 203,
+      "G": 115,
+      "B": 117
+    },
+    "HEX": "#CB7375",
+    "OFFICIAL_NAME": "Antique pink",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Пыльная роза",
+      "UKRAINIAN": "Пилова троянда",
+      "ENGLISH": "Dusty pink"
+    }
+  },
+  "RAL 3015": {
+    "RGB": {
+      "R": 216,
+      "G": 160,
+      "B": 166
+    },
+    "HEX": "#D8A0A6",
+    "OFFICIAL_NAME": "Light pink",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Светло-розовый",
+      "UKRAINIAN": "Світло-рожевий",
+      "ENGLISH": "Light pink"
+    }
+  },
+  "RAL 3016": {
+    "RGB": {
+      "R": 166,
+      "G": 61,
+      "B": 47
+    },
+    "HEX": "#A63D2F",
+    "OFFICIAL_NAME": "Coral red",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Коралловый",
+      "UKRAINIAN": "Кораловий",
+      "ENGLISH": "Coral red"
+    }
+  },
+  "RAL 3017": {
+    "RGB": {
+      "R": 203,
+      "G": 85,
+      "B": 93
+    },
+    "HEX": "#CB555D",
+    "OFFICIAL_NAME": "Rose",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Розовый цветок",
+      "UKRAINIAN": "Рожевий квітка",
+      "ENGLISH": "Rose"
+    }
+  },
+  "RAL 3018": {
+    "RGB": {
+      "R": 199,
+      "G": 63,
+      "B": 74
+    },
+    "HEX": "#C73F4A",
+    "OFFICIAL_NAME": "Strawberry red",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Клубничный",
+      "UKRAINIAN": "Полуничний",
+      "ENGLISH": "Strawberry red"
+    }
+  },
+  "RAL 3020": {
+    "RGB": {
+      "R": 187,
+      "G": 30,
+      "B": 16
+    },
+    "HEX": "#BB1E10",
+    "OFFICIAL_NAME": "Traffic red",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Ярко-красный",
+      "UKRAINIAN": "Яскраво-червоний",
+      "ENGLISH": "Bright red"
+    }
+  },
+  "RAL 3022": {
+    "RGB": {
+      "R": 207,
+      "G": 105,
+      "B": 85
+    },
+    "HEX": "#CF6955",
+    "OFFICIAL_NAME": "Salmon pink",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Лососевый",
+      "UKRAINIAN": "Лососевий",
+      "ENGLISH": "Salmon"
+    }
+  },
+  "RAL 3024": {
+    "RGB": {
+      "R": 255,
+      "G": 45,
+      "B": 33
+    },
+    "HEX": "#FF2D21",
+    "OFFICIAL_NAME": "Luminous red",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Светящийся красный",
+      "UKRAINIAN": "Світний червоний",
+      "ENGLISH": "Luminous red"
+    }
+  },
+  "RAL 3026": {
+    "RGB": {
+      "R": 255,
+      "G": 42,
+      "B": 27
+    },
+    "HEX": "#FF2A1B",
+    "OFFICIAL_NAME": "Luminous bright red",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Неоновый красный",
+      "UKRAINIAN": "Неоновий червоний",
+      "ENGLISH": "Neon red"
+    }
+  },
+  "RAL 3027": {
+    "RGB": {
+      "R": 171,
+      "G": 39,
+      "B": 60
+    },
+    "HEX": "#AB273C",
+    "OFFICIAL_NAME": "Raspberry red",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Малиновый",
+      "UKRAINIAN": "Малиновий",
+      "ENGLISH": "Raspberry"
+    }
+  },
+  "RAL 3028": {
+    "RGB": {
+      "R": 204,
+      "G": 44,
+      "B": 36
+    },
+    "HEX": "#CC2C24",
+    "OFFICIAL_NAME": "Pure red",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Чистый красный",
+      "UKRAINIAN": "Чистий червоний",
+      "ENGLISH": "Pure red"
+    }
+  },
+  "RAL 3031": {
+    "RGB": {
+      "R": 166,
+      "G": 52,
+      "B": 55
+    },
+    "HEX": "#A63437",
+    "OFFICIAL_NAME": "Orient red",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Восточный бордовый",
+      "UKRAINIAN": "Східний бордовий",
+      "ENGLISH": "Oriental red"
+    }
+  },
+  "RAL 3032": {
+    "RGB": {
+      "R": 112,
+      "G": 29,
+      "B": 35
+    },
+    "HEX": "#701D23",
+    "OFFICIAL_NAME": "Pearl ruby red",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Перламутровый рубин",
+      "UKRAINIAN": "Перламутровий рубін",
+      "ENGLISH": "Pearl ruby red"
+    }
+  },
+  "RAL 3033": {
+    "RGB": {
+      "R": 165,
+      "G": 58,
+      "B": 45
+    },
+    "HEX": "#A53A2D",
+    "OFFICIAL_NAME": "Pearl pink",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Перламутрово-розовый",
+      "UKRAINIAN": "Перламутрово-рожевий",
+      "ENGLISH": "Pearl pink"
+    }
+  },
+  "RAL 4001": {
+    "RGB": {
+      "R": 129,
+      "G": 97,
+      "B": 131
+    },
+    "HEX": "#816183",
+    "OFFICIAL_NAME": "Red lilac",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Сиреневый",
+      "UKRAINIAN": "Бузковий",
+      "ENGLISH": "Lilac"
+    }
+  },
+  "RAL 4002": {
+    "RGB": {
+      "R": 141,
+      "G": 60,
+      "B": 75
+    },
+    "HEX": "#8D3C4B",
+    "OFFICIAL_NAME": "Red violet",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Сливовый",
+      "UKRAINIAN": "Сливовий",
+      "ENGLISH": "Plum violet"
+    }
+  },
+  "RAL 4003": {
+    "RGB": {
+      "R": 196,
+      "G": 97,
+      "B": 140
+    },
+    "HEX": "#C4618C",
+    "OFFICIAL_NAME": "Heather violet",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Фиалка",
+      "UKRAINIAN": "Фіалка",
+      "ENGLISH": "Violet flower"
+    }
+  },
+  "RAL 4004": {
+    "RGB": {
+      "R": 101,
+      "G": 30,
+      "B": 56
+    },
+    "HEX": "#651E38",
+    "OFFICIAL_NAME": "Claret violet",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Бордо",
+      "UKRAINIAN": "Бордовий",
+      "ENGLISH": "Claret"
+    }
+  },
+  "RAL 4005": {
+    "RGB": {
+      "R": 118,
+      "G": 104,
+      "B": 154
+    },
+    "HEX": "#76689A",
+    "OFFICIAL_NAME": "Blue lilac",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Лавандовый",
+      "UKRAINIAN": "Лавандовий",
+      "ENGLISH": "Lavender"
+    }
+  },
+  "RAL 4006": {
+    "RGB": {
+      "R": 144,
+      "G": 51,
+      "B": 115
+    },
+    "HEX": "#903373",
+    "OFFICIAL_NAME": "Traffic purple",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Яркий пурпурный",
+      "UKRAINIAN": "Яскравий пурпуровий",
+      "ENGLISH": "Bright purple"
+    }
+  },
+  "RAL 4007": {
+    "RGB": {
+      "R": 71,
+      "G": 36,
+      "B": 60
+    },
+    "HEX": "#47243C",
+    "OFFICIAL_NAME": "Purple violet",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Тёмный баклажан",
+      "UKRAINIAN": "Темний баклажан",
+      "ENGLISH": "Deep aubergine"
+    }
+  },
+  "RAL 4008": {
+    "RGB": {
+      "R": 132,
+      "G": 76,
+      "B": 130
+    },
+    "HEX": "#844C82",
+    "OFFICIAL_NAME": "Signal violet",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Электро-фиолет",
+      "UKRAINIAN": "Сигнальний фіолетовий",
+      "ENGLISH": "Signal violet"
+    }
+  },
+  "RAL 4009": {
+    "RGB": {
+      "R": 157,
+      "G": 134,
+      "B": 146
+    },
+    "HEX": "#9D8692",
+    "OFFICIAL_NAME": "Pastel violet",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Пастельная лаванда",
+      "UKRAINIAN": "Пастельна лаванда",
+      "ENGLISH": "Pastel lavender"
+    }
+  },
+  "RAL 4010": {
+    "RGB": {
+      "R": 188,
+      "G": 64,
+      "B": 119
+    },
+    "HEX": "#BC4077",
+    "OFFICIAL_NAME": "Telemagenta",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Неоновая фуксия",
+      "UKRAINIAN": "Неонова фуксія",
+      "ENGLISH": "Neon magenta"
+    }
+  },
+  "RAL 4011": {
+    "RGB": {
+      "R": 110,
+      "G": 99,
+      "B": 135
+    },
+    "HEX": "#6E6387",
+    "OFFICIAL_NAME": "Pearl violet",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Перламутровый фиолетовый",
+      "UKRAINIAN": "Перламутровий фіолетовий",
+      "ENGLISH": "Pearl violet"
+    }
+  },
+  "RAL 4012": {
+    "RGB": {
+      "R": 107,
+      "G": 107,
+      "B": 127
+    },
+    "HEX": "#6B6B7F",
+    "OFFICIAL_NAME": "Pearl blackberry",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Перламутровая ежевика",
+      "UKRAINIAN": "Перламутрова ожина",
+      "ENGLISH": "Pearl blackberry"
+    }
+  },
+  "RAL 5000": {
+    "RGB": {
+      "R": 49,
+      "G": 79,
+      "B": 111
+    },
+    "HEX": "#314F6F",
+    "OFFICIAL_NAME": "Violet blue",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Сине-фиолетовый",
+      "UKRAINIAN": "Синьо-фіолетовий",
+      "ENGLISH": "Indigo blue"
+    }
+  },
+  "RAL 5001": {
+    "RGB": {
+      "R": 15,
+      "G": 76,
+      "B": 100
+    },
+    "HEX": "#0F4C64",
+    "OFFICIAL_NAME": "Green blue",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Морская волна",
+      "UKRAINIAN": "Морська хвиля",
+      "ENGLISH": "Ocean blue"
+    }
+  },
+  "RAL 5002": {
+    "RGB": {
+      "R": 0,
+      "G": 56,
+      "B": 123
+    },
+    "HEX": "#00387B",
+    "OFFICIAL_NAME": "Ultramarine blue",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Ультрамарин",
+      "UKRAINIAN": "Ультрамарин",
+      "ENGLISH": "Ultramarine"
+    }
+  },
+  "RAL 5003": {
+    "RGB": {
+      "R": 31,
+      "G": 56,
+      "B": 85
+    },
+    "HEX": "#1F3855",
+    "OFFICIAL_NAME": "Sapphire blue",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Сапфир",
+      "UKRAINIAN": "Сапфір",
+      "ENGLISH": "Sapphire blue"
+    }
+  },
+  "RAL 5004": {
+    "RGB": {
+      "R": 25,
+      "G": 30,
+      "B": 40
+    },
+    "HEX": "#191E28",
+    "OFFICIAL_NAME": "Black blue",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Глубокий синий",
+      "UKRAINIAN": "Глибокий синій",
+      "ENGLISH": "Deep blue"
+    }
+  },
+  "RAL 5005": {
+    "RGB": {
+      "R": 0,
+      "G": 83,
+      "B": 135
+    },
+    "HEX": "#005387",
+    "OFFICIAL_NAME": "Signal blue",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Яркий синий",
+      "UKRAINIAN": "Яскравий синій",
+      "ENGLISH": "Signal blue"
+    }
+  },
+  "RAL 5007": {
+    "RGB": {
+      "R": 55,
+      "G": 107,
+      "B": 140
+    },
+    "HEX": "#376B8C",
+    "OFFICIAL_NAME": "Brilliant blue",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Яркий васильковый",
+      "UKRAINIAN": "Яскравий волошковий",
+      "ENGLISH": "Cornflower blue"
+    }
+  },
+  "RAL 5008": {
+    "RGB": {
+      "R": 43,
+      "G": 58,
+      "B": 68
+    },
+    "HEX": "#2B3A44",
+    "OFFICIAL_NAME": "Grey blue",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Сине-серый",
+      "UKRAINIAN": "Синьо-сірий",
+      "ENGLISH": "Blue grey"
+    }
+  },
+  "RAL 5009": {
+    "RGB": {
+      "R": 34,
+      "G": 95,
+      "B": 120
+    },
+    "HEX": "#225F78",
+    "OFFICIAL_NAME": "Azure blue",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Лазурный",
+      "UKRAINIAN": "Лазурний",
+      "ENGLISH": "Azure blue"
+    }
+  },
+  "RAL 5010": {
+    "RGB": {
+      "R": 0,
+      "G": 79,
+      "B": 124
+    },
+    "HEX": "#004F7C",
+    "OFFICIAL_NAME": "Gentian blue",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Васильковый",
+      "UKRAINIAN": "Волошковий",
+      "ENGLISH": "Gentian blue"
+    }
+  },
+  "RAL 5011": {
+    "RGB": {
+      "R": 26,
+      "G": 43,
+      "B": 60
+    },
+    "HEX": "#1A2B3C",
+    "OFFICIAL_NAME": "Steel blue",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Стальной синий",
+      "UKRAINIAN": "Сталевий синій",
+      "ENGLISH": "Steel blue"
+    }
+  },
+  "RAL 5012": {
+    "RGB": {
+      "R": 0,
+      "G": 137,
+      "B": 182
+    },
+    "HEX": "#0089B6",
+    "OFFICIAL_NAME": "Light blue",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Светло-голубой",
+      "UKRAINIAN": "Світло-блакитний",
+      "ENGLISH": "Light blue"
+    }
+  },
+  "RAL 5013": {
+    "RGB": {
+      "R": 25,
+      "G": 49,
+      "B": 83
+    },
+    "HEX": "#193153",
+    "OFFICIAL_NAME": "Cobalt blue",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Кобальтовый",
+      "UKRAINIAN": "Кобальтовий",
+      "ENGLISH": "Cobalt blue"
+    }
+  },
+  "RAL 5014": {
+    "RGB": {
+      "R": 99,
+      "G": 125,
+      "B": 150
+    },
+    "HEX": "#637D96",
+    "OFFICIAL_NAME": "Pigeon blue",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Голубь",
+      "UKRAINIAN": "Голуб",
+      "ENGLISH": "Pigeon blue"
+    }
+  },
+  "RAL 5015": {
+    "RGB": {
+      "R": 0,
+      "G": 124,
+      "B": 176
+    },
+    "HEX": "#007CB0",
+    "OFFICIAL_NAME": "Sky blue",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Небесный",
+      "UKRAINIAN": "Небесний",
+      "ENGLISH": "Sky blue"
+    }
+  },
+  "RAL 5017": {
+    "RGB": {
+      "R": 0,
+      "G": 91,
+      "B": 140
+    },
+    "HEX": "#005B8C",
+    "OFFICIAL_NAME": "Traffic blue",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Транспортный синий",
+      "UKRAINIAN": "Транспортний синій",
+      "ENGLISH": "Traffic blue"
+    }
+  },
+  "RAL 5018": {
+    "RGB": {
+      "R": 5,
+      "G": 139,
+      "B": 140
+    },
+    "HEX": "#058B8C",
+    "OFFICIAL_NAME": "Turquoise blue",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Бирюзовый",
+      "UKRAINIAN": "Бірюзовий",
+      "ENGLISH": "Turquoise"
+    }
+  },
+  "RAL 5019": {
+    "RGB": {
+      "R": 0,
+      "G": 94,
+      "B": 131
+    },
+    "HEX": "#005E83",
+    "OFFICIAL_NAME": "Capri blue",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Капри",
+      "UKRAINIAN": "Капрі",
+      "ENGLISH": "Capri blue"
+    }
+  },
+  "RAL 5020": {
+    "RGB": {
+      "R": 0,
+      "G": 65,
+      "B": 75
+    },
+    "HEX": "#00414B",
+    "OFFICIAL_NAME": "Ocean blue",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Глубокое море",
+      "UKRAINIAN": "Глибоке море",
+      "ENGLISH": "Deep ocean"
+    }
+  },
+  "RAL 5021": {
+    "RGB": {
+      "R": 0,
+      "G": 117,
+      "B": 119
+    },
+    "HEX": "#007577",
+    "OFFICIAL_NAME": "Water blue",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Цвет воды",
+      "UKRAINIAN": "Колір води",
+      "ENGLISH": "Water blue"
+    }
+  },
+  "RAL 5022": {
+    "RGB": {
+      "R": 34,
+      "G": 45,
+      "B": 90
+    },
+    "HEX": "#222D5A",
+    "OFFICIAL_NAME": "Night blue",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Ночной синий",
+      "UKRAINIAN": "Нічний синій",
+      "ENGLISH": "Night blue"
+    }
+  },
+  "RAL 5023": {
+    "RGB": {
+      "R": 66,
+      "G": 105,
+      "B": 140
+    },
+    "HEX": "#42698C",
+    "OFFICIAL_NAME": "Distant blue",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Дальний горизонт",
+      "UKRAINIAN": "Далекий обрій",
+      "ENGLISH": "Distant horizon blue"
+    }
+  },
+  "RAL 5024": {
+    "RGB": {
+      "R": 96,
+      "G": 147,
+      "B": 172
+    },
+    "HEX": "#6093AC",
+    "OFFICIAL_NAME": "Pastel blue",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Пастельный голубой",
+      "UKRAINIAN": "Пастельний блакитний",
+      "ENGLISH": "Pastel blue"
+    }
+  },
+  "RAL 5025": {
+    "RGB": {
+      "R": 33,
+      "G": 105,
+      "B": 124
+    },
+    "HEX": "#21697C",
+    "OFFICIAL_NAME": "Pearl gentian blue",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Перламутровый васильковый",
+      "UKRAINIAN": "Перламутровий волошковий",
+      "ENGLISH": "Pearl gentian blue"
+    }
+  },
+  "RAL 5026": {
+    "RGB": {
+      "R": 15,
+      "G": 48,
+      "B": 82
+    },
+    "HEX": "#0F3052",
+    "OFFICIAL_NAME": "Pearl night blue",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Перламутровый ночной синий",
+      "UKRAINIAN": "Перламутровий нічний синій",
+      "ENGLISH": "Pearl night blue"
+    }
+  },
+  "RAL 6000": {
+    "RGB": {
+      "R": 60,
+      "G": 116,
+      "B": 96
+    },
+    "HEX": "#3C7460",
+    "OFFICIAL_NAME": "Patina green",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Патиновый зелёный",
+      "UKRAINIAN": "Патиновий зелений",
+      "ENGLISH": "Patina green"
+    }
+  },
+  "RAL 6001": {
+    "RGB": {
+      "R": 54,
+      "G": 103,
+      "B": 53
+    },
+    "HEX": "#366735",
+    "OFFICIAL_NAME": "Emerald green",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Изумрудный",
+      "UKRAINIAN": "Смарагдовий",
+      "ENGLISH": "Emerald"
+    }
+  },
+  "RAL 6002": {
+    "RGB": {
+      "R": 50,
+      "G": 89,
+      "B": 40
+    },
+    "HEX": "#325928",
+    "OFFICIAL_NAME": "Leaf green",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Листовой зелёный",
+      "UKRAINIAN": "Листяний зелений",
+      "ENGLISH": "Leaf green"
+    }
+  },
+  "RAL 6003": {
+    "RGB": {
+      "R": 80,
+      "G": 83,
+      "B": 60
+    },
+    "HEX": "#50533C",
+    "OFFICIAL_NAME": "Olive green",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Оливковый",
+      "UKRAINIAN": "Оливковий",
+      "ENGLISH": "Olive"
+    }
+  },
+  "RAL 6004": {
+    "RGB": {
+      "R": 2,
+      "G": 68,
+      "B": 66
+    },
+    "HEX": "#024442",
+    "OFFICIAL_NAME": "Blue green",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Морская зелень",
+      "UKRAINIAN": "Морська зелень",
+      "ENGLISH": "Blue-green"
+    }
+  },
+  "RAL 6005": {
+    "RGB": {
+      "R": 17,
+      "G": 66,
+      "B": 50
+    },
+    "HEX": "#114232",
+    "OFFICIAL_NAME": "Moss green",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Мох",
+      "UKRAINIAN": "Мох",
+      "ENGLISH": "Moss green"
+    }
+  },
+  "RAL 6006": {
+    "RGB": {
+      "R": 60,
+      "G": 57,
+      "B": 46
+    },
+    "HEX": "#3C392E",
+    "OFFICIAL_NAME": "Grey olive",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Серо-оливковый",
+      "UKRAINIAN": "Сіро-оливковий",
+      "ENGLISH": "Grey olive"
+    }
+  },
+  "RAL 6007": {
+    "RGB": {
+      "R": 44,
+      "G": 50,
+      "B": 34
+    },
+    "HEX": "#2C3222",
+    "OFFICIAL_NAME": "Bottle green",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Бутылочный зелёный",
+      "UKRAINIAN": "Пляшковий зелений",
+      "ENGLISH": "Bottle green"
+    }
+  },
+  "RAL 6008": {
+    "RGB": {
+      "R": 55,
+      "G": 52,
+      "B": 42
+    },
+    "HEX": "#37342A",
+    "OFFICIAL_NAME": "Brown green",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Болотный зелёный",
+      "UKRAINIAN": "Болотний зелений",
+      "ENGLISH": "Swamp green"
+    }
+  },
+  "RAL 6009": {
+    "RGB": {
+      "R": 39,
+      "G": 53,
+      "B": 42
+    },
+    "HEX": "#27352A",
+    "OFFICIAL_NAME": "Fir green",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Хвойный",
+      "UKRAINIAN": "Хвойний",
+      "ENGLISH": "Fir tree"
+    }
+  },
+  "RAL 6010": {
+    "RGB": {
+      "R": 77,
+      "G": 111,
+      "B": 57
+    },
+    "HEX": "#4D6F39",
+    "OFFICIAL_NAME": "Grass green",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Травяной",
+      "UKRAINIAN": "Трав’яний",
+      "ENGLISH": "Grass green"
+    }
+  },
+  "RAL 6011": {
+    "RGB": {
+      "R": 108,
+      "G": 124,
+      "B": 89
+    },
+    "HEX": "#6C7C59",
+    "OFFICIAL_NAME": "Reseda green",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Резеда",
+      "UKRAINIAN": "Резеда",
+      "ENGLISH": "Reseda"
+    }
+  },
+  "RAL 6012": {
+    "RGB": {
+      "R": 48,
+      "G": 61,
+      "B": 58
+    },
+    "HEX": "#303D3A",
+    "OFFICIAL_NAME": "Black green",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Чёрно-зелёный",
+      "UKRAINIAN": "Чорно-зелений",
+      "ENGLISH": "Black green"
+    }
+  },
+  "RAL 6013": {
+    "RGB": {
+      "R": 125,
+      "G": 118,
+      "B": 90
+    },
+    "HEX": "#7D765A",
+    "OFFICIAL_NAME": "Reed green",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Камыш",
+      "UKRAINIAN": "Очерет",
+      "ENGLISH": "Reed green"
+    }
+  },
+  "RAL 6014": {
+    "RGB": {
+      "R": 71,
+      "G": 65,
+      "B": 53
+    },
+    "HEX": "#474135",
+    "OFFICIAL_NAME": "Yellow olive",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Жёлто-оливковый",
+      "UKRAINIAN": "Жовто-оливковий",
+      "ENGLISH": "Yellow olive"
+    }
+  },
+  "RAL 6015": {
+    "RGB": {
+      "R": 61,
+      "G": 61,
+      "B": 54
+    },
+    "HEX": "#3D3D36",
+    "OFFICIAL_NAME": "Black olive",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Тёмная олива",
+      "UKRAINIAN": "Темна олива",
+      "ENGLISH": "Black olive"
+    }
+  },
+  "RAL 6016": {
+    "RGB": {
+      "R": 0,
+      "G": 105,
+      "B": 76
+    },
+    "HEX": "#00694C",
+    "OFFICIAL_NAME": "Turquoise green",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Бирюзово-зелёный",
+      "UKRAINIAN": "Бірюзово-зелений",
+      "ENGLISH": "Turquoise green"
+    }
+  },
+  "RAL 6017": {
+    "RGB": {
+      "R": 88,
+      "G": 127,
+      "B": 64
+    },
+    "HEX": "#587F40",
+    "OFFICIAL_NAME": "May green",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Майская зелень",
+      "UKRAINIAN": "Травнева зелень",
+      "ENGLISH": "May green"
+    }
+  },
+  "RAL 6018": {
+    "RGB": {
+      "R": 97,
+      "G": 153,
+      "B": 59
+    },
+    "HEX": "#61993B",
+    "OFFICIAL_NAME": "Yellow green",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Ярко-зелёный",
+      "UKRAINIAN": "Яскраво-зелений",
+      "ENGLISH": "Bright green"
+    }
+  },
+  "RAL 6019": {
+    "RGB": {
+      "R": 185,
+      "G": 206,
+      "B": 172
+    },
+    "HEX": "#B9CEAC",
+    "OFFICIAL_NAME": "Pastel green",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Пастельный зелёный",
+      "UKRAINIAN": "Пастельний зелений",
+      "ENGLISH": "Pastel green"
+    }
+  },
+  "RAL 6020": {
+    "RGB": {
+      "R": 55,
+      "G": 66,
+      "B": 47
+    },
+    "HEX": "#37422F",
+    "OFFICIAL_NAME": "Chrome green",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Хромовый зелёный",
+      "UKRAINIAN": "Хромовий зелений",
+      "ENGLISH": "Chrome green"
+    }
+  },
+  "RAL 6021": {
+    "RGB": {
+      "R": 138,
+      "G": 153,
+      "B": 119
+    },
+    "HEX": "#8A9977",
+    "OFFICIAL_NAME": "Pale green",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Бледно-зелёный",
+      "UKRAINIAN": "Блідо-зелений",
+      "ENGLISH": "Pale green"
+    }
+  },
+  "RAL 6022": {
+    "RGB": {
+      "R": 58,
+      "G": 51,
+      "B": 39
+    },
+    "HEX": "#3A3327",
+    "OFFICIAL_NAME": "Olive drab",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Тёмный защитный",
+      "UKRAINIAN": "Темний захисний",
+      "ENGLISH": "Military olive"
+    }
+  },
+  "RAL 6024": {
+    "RGB": {
+      "R": 0,
+      "G": 131,
+      "B": 81
+    },
+    "HEX": "#008351",
+    "OFFICIAL_NAME": "Traffic green",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Яркий зелёный",
+      "UKRAINIAN": "Яскравий зелений",
+      "ENGLISH": "Traffic green"
+    }
+  },
+  "RAL 6025": {
+    "RGB": {
+      "R": 94,
+      "G": 110,
+      "B": 59
+    },
+    "HEX": "#5E6E3B",
+    "OFFICIAL_NAME": "Fern green",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Папоротник",
+      "UKRAINIAN": "Папороть",
+      "ENGLISH": "Fern green"
+    }
+  },
+  "RAL 6026": {
+    "RGB": {
+      "R": 0,
+      "G": 95,
+      "B": 78
+    },
+    "HEX": "#005F4E",
+    "OFFICIAL_NAME": "Opal green",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Опаловый зелёный",
+      "UKRAINIAN": "Опаловий зелений",
+      "ENGLISH": "Opal green"
+    }
+  },
+  "RAL 6027": {
+    "RGB": {
+      "R": 126,
+      "G": 186,
+      "B": 181
+    },
+    "HEX": "#7EBAB5",
+    "OFFICIAL_NAME": "Light green",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Мятная свежесть",
+      "UKRAINIAN": "М’ятна свіжість",
+      "ENGLISH": "Mint ice"
+    }
+  },
+  "RAL 6028": {
+    "RGB": {
+      "R": 49,
+      "G": 84,
+      "B": 66
+    },
+    "HEX": "#315442",
+    "OFFICIAL_NAME": "Pine green",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Сосновый",
+      "UKRAINIAN": "Сосновий",
+      "ENGLISH": "Pine green"
+    }
+  },
+  "RAL 6029": {
+    "RGB": {
+      "R": 0,
+      "G": 111,
+      "B": 61
+    },
+    "HEX": "#006F3D",
+    "OFFICIAL_NAME": "Mint green",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Мятный",
+      "UKRAINIAN": "М’ятний",
+      "ENGLISH": "Mint green"
+    }
+  },
+  "RAL 6032": {
+    "RGB": {
+      "R": 35,
+      "G": 127,
+      "B": 82
+    },
+    "HEX": "#237F52",
+    "OFFICIAL_NAME": "Signal green",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Яркий салатовый",
+      "UKRAINIAN": "Яскравий салатовий",
+      "ENGLISH": "Signal green"
+    }
+  },
+  "RAL 6033": {
+    "RGB": {
+      "R": 70,
+      "G": 135,
+      "B": 127
+    },
+    "HEX": "#46877F",
+    "OFFICIAL_NAME": "Mint turquoise",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Мятная бирюза",
+      "UKRAINIAN": "М’ятна бірюза",
+      "ENGLISH": "Mint turquoise"
+    }
+  },
+  "RAL 6034": {
+    "RGB": {
+      "R": 122,
+      "G": 172,
+      "B": 172
+    },
+    "HEX": "#7AACAC",
+    "OFFICIAL_NAME": "Pastel turquoise",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Пастельная бирюза",
+      "UKRAINIAN": "Пастельна бірюза",
+      "ENGLISH": "Pastel turquoise"
+    }
+  },
+  "RAL 6035": {
+    "RGB": {
+      "R": 25,
+      "G": 77,
+      "B": 37
+    },
+    "HEX": "#194D25",
+    "OFFICIAL_NAME": "Pearl green",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Перламутровый зелёный",
+      "UKRAINIAN": "Перламутровий зелений",
+      "ENGLISH": "Pearl green"
+    }
+  },
+  "RAL 6036": {
+    "RGB": {
+      "R": 4,
+      "G": 87,
+      "B": 75
+    },
+    "HEX": "#04574B",
+    "OFFICIAL_NAME": "Pearl opal green",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Перламутровый опаловый",
+      "UKRAINIAN": "Опаловий перламутровий",
+      "ENGLISH": "Pearl opal green"
+    }
+  },
+  "RAL 6037": {
+    "RGB": {
+      "R": 0,
+      "G": 139,
+      "B": 41
+    },
+    "HEX": "#008B29",
+    "OFFICIAL_NAME": "Pure green",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Чистый зелёный",
+      "UKRAINIAN": "Чистий зелений",
+      "ENGLISH": "Pure green"
+    }
+  },
+  "RAL 6038": {
+    "RGB": {
+      "R": 0,
+      "G": 181,
+      "B": 26
+    },
+    "HEX": "#00B51A",
+    "OFFICIAL_NAME": "Luminous green",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Неоновый зелёный",
+      "UKRAINIAN": "Неоновий зелений",
+      "ENGLISH": "Luminous green"
+    }
+  },
+  "RAL 7000": {
+    "RGB": {
+      "R": 122,
+      "G": 136,
+      "B": 142
+    },
+    "HEX": "#7A888E",
+    "OFFICIAL_NAME": "Squirrel grey",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Белка",
+      "UKRAINIAN": "Білочка",
+      "ENGLISH": "Squirrel grey"
+    }
+  },
+  "RAL 7001": {
+    "RGB": {
+      "R": 140,
+      "G": 150,
+      "B": 157
+    },
+    "HEX": "#8C969D",
+    "OFFICIAL_NAME": "Silver grey",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Серебристый",
+      "UKRAINIAN": "Сріблястий",
+      "ENGLISH": "Silver grey"
+    }
+  },
+  "RAL 7002": {
+    "RGB": {
+      "R": 129,
+      "G": 120,
+      "B": 99
+    },
+    "HEX": "#817863",
+    "OFFICIAL_NAME": "Olive grey",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Оливково-серый",
+      "UKRAINIAN": "Оливково-сірий",
+      "ENGLISH": "Olive grey"
+    }
+  },
+  "RAL 7003": {
+    "RGB": {
+      "R": 122,
+      "G": 118,
+      "B": 105
+    },
+    "HEX": "#7A7669",
+    "OFFICIAL_NAME": "Moss grey",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Мшистый серый",
+      "UKRAINIAN": "Моховий сірий",
+      "ENGLISH": "Moss grey"
+    }
+  },
+  "RAL 7004": {
+    "RGB": {
+      "R": 155,
+      "G": 155,
+      "B": 155
+    },
+    "HEX": "#9B9B9B",
+    "OFFICIAL_NAME": "Signal grey",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Технический серый",
+      "UKRAINIAN": "Технічний сірий",
+      "ENGLISH": "Signal grey"
+    }
+  },
+  "RAL 7005": {
+    "RGB": {
+      "R": 108,
+      "G": 110,
+      "B": 107
+    },
+    "HEX": "#6C6E6B",
+    "OFFICIAL_NAME": "Mouse grey",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Мышиный",
+      "UKRAINIAN": "Мишачий",
+      "ENGLISH": "Mouse grey"
+    }
+  },
+  "RAL 7006": {
+    "RGB": {
+      "R": 118,
+      "G": 106,
+      "B": 94
+    },
+    "HEX": "#766A5E",
+    "OFFICIAL_NAME": "Beige grey",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Бежево-серый",
+      "UKRAINIAN": "Бежево-сірий",
+      "ENGLISH": "Beige grey"
+    }
+  },
+  "RAL 7008": {
+    "RGB": {
+      "R": 116,
+      "G": 94,
+      "B": 61
+    },
+    "HEX": "#745E3D",
+    "OFFICIAL_NAME": "Khaki grey",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Хаки",
+      "UKRAINIAN": "Хакі",
+      "ENGLISH": "Khaki grey"
+    }
+  },
+  "RAL 7009": {
+    "RGB": {
+      "R": 93,
+      "G": 96,
+      "B": 88
+    },
+    "HEX": "#5D6058",
+    "OFFICIAL_NAME": "Green grey",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Зелено-серый",
+      "UKRAINIAN": "Зелено-сірий",
+      "ENGLISH": "Green grey"
+    }
+  },
+  "RAL 7010": {
+    "RGB": {
+      "R": 88,
+      "G": 92,
+      "B": 86
+    },
+    "HEX": "#585C56",
+    "OFFICIAL_NAME": "Tarpaulin grey",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Брезентовый",
+      "UKRAINIAN": "Брезентовий",
+      "ENGLISH": "Tarpaulin grey"
+    }
+  },
+  "RAL 7011": {
+    "RGB": {
+      "R": 82,
+      "G": 89,
+      "B": 93
+    },
+    "HEX": "#52595D",
+    "OFFICIAL_NAME": "Iron grey",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Чугун",
+      "UKRAINIAN": "Чавун",
+      "ENGLISH": "Iron grey"
+    }
+  },
+  "RAL 7012": {
+    "RGB": {
+      "R": 87,
+      "G": 93,
+      "B": 94
+    },
+    "HEX": "#575D5E",
+    "OFFICIAL_NAME": "Basalt grey",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Базальт",
+      "UKRAINIAN": "Базальт",
+      "ENGLISH": "Basalt grey"
+    }
+  },
+  "RAL 7013": {
+    "RGB": {
+      "R": 87,
+      "G": 80,
+      "B": 68
+    },
+    "HEX": "#575044",
+    "OFFICIAL_NAME": "Brown grey",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Коричнево-серый",
+      "UKRAINIAN": "Коричнево-сірий",
+      "ENGLISH": "Brownish grey"
+    }
+  },
+  "RAL 7015": {
+    "RGB": {
+      "R": 79,
+      "G": 83,
+      "B": 88
+    },
+    "HEX": "#4F5358",
+    "OFFICIAL_NAME": "Slate grey",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Сланец",
+      "UKRAINIAN": "Сланець",
+      "ENGLISH": "Slate grey"
+    }
+  },
+  "RAL 7016": {
+    "RGB": {
+      "R": 56,
+      "G": 62,
+      "B": 66
+    },
+    "HEX": "#383E42",
+    "OFFICIAL_NAME": "Anthracite grey",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Антрацит",
+      "UKRAINIAN": "Антрацит",
+      "ENGLISH": "Anthracite grey"
+    }
+  },
+  "RAL 7021": {
+    "RGB": {
+      "R": 47,
+      "G": 50,
+      "B": 52
+    },
+    "HEX": "#2F3234",
+    "OFFICIAL_NAME": "Black grey",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Тёмно-графитовый",
+      "UKRAINIAN": "Темно-графітовий",
+      "ENGLISH": "Blackish grey"
+    }
+  },
+  "RAL 7022": {
+    "RGB": {
+      "R": 76,
+      "G": 74,
+      "B": 68
+    },
+    "HEX": "#4C4A44",
+    "OFFICIAL_NAME": "Umbra grey",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Умбра",
+      "UKRAINIAN": "Умбра",
+      "ENGLISH": "Umbra grey"
+    }
+  },
+  "RAL 7023": {
+    "RGB": {
+      "R": 128,
+      "G": 128,
+      "B": 118
+    },
+    "HEX": "#808076",
+    "OFFICIAL_NAME": "Concrete grey",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Бетон",
+      "UKRAINIAN": "Бетон",
+      "ENGLISH": "Concrete grey"
+    }
+  },
+  "RAL 7024": {
+    "RGB": {
+      "R": 69,
+      "G": 73,
+      "B": 78
+    },
+    "HEX": "#45494E",
+    "OFFICIAL_NAME": "Graphite grey",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Графит",
+      "UKRAINIAN": "Графіт",
+      "ENGLISH": "Graphite grey"
+    }
+  },
+  "RAL 7026": {
+    "RGB": {
+      "R": 55,
+      "G": 67,
+      "B": 69
+    },
+    "HEX": "#374345",
+    "OFFICIAL_NAME": "Granite grey",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Гранит",
+      "UKRAINIAN": "Граніт",
+      "ENGLISH": "Granite grey"
+    }
+  },
+  "RAL 7030": {
+    "RGB": {
+      "R": 146,
+      "G": 142,
+      "B": 133
+    },
+    "HEX": "#928E85",
+    "OFFICIAL_NAME": "Stone grey",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Каменно серый",
+      "UKRAINIAN": "Кам'яно-сірий",
+      "ENGLISH": "Stone grey"
+    }
+  },
+  "RAL 7031": {
+    "RGB": {
+      "R": 91,
+      "G": 104,
+      "B": 109
+    },
+    "HEX": "#5B686D",
+    "OFFICIAL_NAME": "Blue grey",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Сине-серый",
+      "UKRAINIAN": "Синьо-сірий",
+      "ENGLISH": "Blue-grey"
+    }
+  },
+  "RAL 7032": {
+    "RGB": {
+      "R": 181,
+      "G": 176,
+      "B": 161
+    },
+    "HEX": "#B5B0A1",
+    "OFFICIAL_NAME": "Pebble grey",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Галька",
+      "UKRAINIAN": "Галька",
+      "ENGLISH": "Pebble grey"
+    }
+  },
+  "RAL 7033": {
+    "RGB": {
+      "R": 127,
+      "G": 130,
+      "B": 116
+    },
+    "HEX": "#7F8274",
+    "OFFICIAL_NAME": "Cement grey",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Цемент",
+      "UKRAINIAN": "Цемент",
+      "ENGLISH": "Cement grey"
+    }
+  },
+  "RAL 7034": {
+    "RGB": {
+      "R": 146,
+      "G": 136,
+      "B": 111
+    },
+    "HEX": "#92886F",
+    "OFFICIAL_NAME": "Yellow grey",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Жёлто-серый",
+      "UKRAINIAN": "Жовто-сірий",
+      "ENGLISH": "Yellowish grey"
+    }
+  },
+  "RAL 7035": {
+    "RGB": {
+      "R": 197,
+      "G": 199,
+      "B": 196
+    },
+    "HEX": "#C5C7C4",
+    "OFFICIAL_NAME": "Light grey",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Светло-серый",
+      "UKRAINIAN": "Світло-сірий",
+      "ENGLISH": "Light grey"
+    }
+  },
+  "RAL 7036": {
+    "RGB": {
+      "R": 151,
+      "G": 147,
+      "B": 146
+    },
+    "HEX": "#979392",
+    "OFFICIAL_NAME": "Platinum grey",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Платиновый",
+      "UKRAINIAN": "Платиновий",
+      "ENGLISH": "Platinum grey"
+    }
+  },
+  "RAL 7037": {
+    "RGB": {
+      "R": 122,
+      "G": 123,
+      "B": 122
+    },
+    "HEX": "#7A7B7A",
+    "OFFICIAL_NAME": "Dusty grey",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Пыльный серый",
+      "UKRAINIAN": "Пиловий сірий",
+      "ENGLISH": "Dusty grey"
+    }
+  },
+  "RAL 7038": {
+    "RGB": {
+      "R": 176,
+      "G": 176,
+      "B": 169
+    },
+    "HEX": "#B0B0A9",
+    "OFFICIAL_NAME": "Agate grey",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Агат",
+      "UKRAINIAN": "Агат",
+      "ENGLISH": "Agate grey"
+    }
+  },
+  "RAL 7039": {
+    "RGB": {
+      "R": 107,
+      "G": 102,
+      "B": 94
+    },
+    "HEX": "#6B665E",
+    "OFFICIAL_NAME": "Quartz grey",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Кварц",
+      "UKRAINIAN": "Кварц",
+      "ENGLISH": "Quartz grey"
+    }
+  },
+  "RAL 7040": {
+    "RGB": {
+      "R": 152,
+      "G": 158,
+      "B": 161
+    },
+    "HEX": "#989EA1",
+    "OFFICIAL_NAME": "Window grey",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Серое окно",
+      "UKRAINIAN": "Сіре вікно",
+      "ENGLISH": "Window grey"
+    }
+  },
+  "RAL 7042": {
+    "RGB": {
+      "R": 142,
+      "G": 146,
+      "B": 145
+    },
+    "HEX": "#8E9291",
+    "OFFICIAL_NAME": "Traffic grey A",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Дорожный серый А",
+      "UKRAINIAN": "Дорожній сірий A",
+      "ENGLISH": "Traffic grey A"
+    }
+  },
+  "RAL 7043": {
+    "RGB": {
+      "R": 79,
+      "G": 82,
+      "B": 80
+    },
+    "HEX": "#4F5250",
+    "OFFICIAL_NAME": "Traffic grey B",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Дорожный серый B",
+      "UKRAINIAN": "Дорожній сірий B",
+      "ENGLISH": "Traffic grey B"
+    }
+  },
+  "RAL 7044": {
+    "RGB": {
+      "R": 183,
+      "G": 179,
+      "B": 168
+    },
+    "HEX": "#B7B3A8",
+    "OFFICIAL_NAME": "Silk grey",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Шёлковый",
+      "UKRAINIAN": "Шовковий",
+      "ENGLISH": "Silk grey"
+    }
+  },
+  "RAL 7045": {
+    "RGB": {
+      "R": 141,
+      "G": 146,
+      "B": 149
+    },
+    "HEX": "#8D9295",
+    "OFFICIAL_NAME": "Telegrey 1",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Телесерый 1",
+      "UKRAINIAN": "Телесірий 1",
+      "ENGLISH": "Telegrey 1"
+    }
+  },
+  "RAL 7046": {
+    "RGB": {
+      "R": 127,
+      "G": 134,
+      "B": 138
+    },
+    "HEX": "#7F868A",
+    "OFFICIAL_NAME": "Telegrey 2",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Телесерый 2",
+      "UKRAINIAN": "Телесірий 2",
+      "ENGLISH": "Telegrey 2"
+    }
+  },
+  "RAL 7047": {
+    "RGB": {
+      "R": 200,
+      "G": 200,
+      "B": 199
+    },
+    "HEX": "#C8C8C7",
+    "OFFICIAL_NAME": "Telegrey 4",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Телесерый 4",
+      "UKRAINIAN": "Телесірий 4",
+      "ENGLISH": "Telegrey 4"
+    }
+  },
+  "RAL 7048": {
+    "RGB": {
+      "R": 129,
+      "G": 123,
+      "B": 115
+    },
+    "HEX": "#817B73",
+    "OFFICIAL_NAME": "Pearl mouse grey",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Перламутрово-мышиный",
+      "UKRAINIAN": "Перламутрово-мишачий",
+      "ENGLISH": "Pearl mouse grey"
+    }
+  },
+  "RAL 8000": {
+    "RGB": {
+      "R": 137,
+      "G": 105,
+      "B": 62
+    },
+    "HEX": "#89693E",
+    "OFFICIAL_NAME": "Green brown",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Оливково-коричневый",
+      "UKRAINIAN": "Оливково-коричневий",
+      "ENGLISH": "Olive brown"
+    }
+  },
+  "RAL 8001": {
+    "RGB": {
+      "R": 157,
+      "G": 98,
+      "B": 43
+    },
+    "HEX": "#9D622B",
+    "OFFICIAL_NAME": "Ochre brown",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Охра",
+      "UKRAINIAN": "Охра",
+      "ENGLISH": "Ochre brown"
+    }
+  },
+  "RAL 8002": {
+    "RGB": {
+      "R": 121,
+      "G": 77,
+      "B": 62
+    },
+    "HEX": "#794D3E",
+    "OFFICIAL_NAME": "Signal brown",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Глиняный",
+      "UKRAINIAN": "Глиняний",
+      "ENGLISH": "Clay brown"
+    }
+  },
+  "RAL 8003": {
+    "RGB": {
+      "R": 126,
+      "G": 75,
+      "B": 38
+    },
+    "HEX": "#7E4B26",
+    "OFFICIAL_NAME": "Clay brown",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Терракота",
+      "UKRAINIAN": "Теракота",
+      "ENGLISH": "Terracotta"
+    }
+  },
+  "RAL 8004": {
+    "RGB": {
+      "R": 141,
+      "G": 73,
+      "B": 49
+    },
+    "HEX": "#8D4931",
+    "OFFICIAL_NAME": "Copper brown",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Медный",
+      "UKRAINIAN": "Мідний",
+      "ENGLISH": "Copper brown"
+    }
+  },
+  "RAL 8007": {
+    "RGB": {
+      "R": 112,
+      "G": 69,
+      "B": 42
+    },
+    "HEX": "#70452A",
+    "OFFICIAL_NAME": "Fawn brown",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Шоколад с молоком",
+      "UKRAINIAN": "Молочний шоколад",
+      "ENGLISH": "Milky chocolate"
+    }
+  },
+  "RAL 8008": {
+    "RGB": {
+      "R": 114,
+      "G": 74,
+      "B": 37
+    },
+    "HEX": "#724A25",
+    "OFFICIAL_NAME": "Olive brown",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Тёмно-оливковый",
+      "UKRAINIAN": "Темно-оливковий",
+      "ENGLISH": "Dark olive"
+    }
+  },
+  "RAL 8011": {
+    "RGB": {
+      "R": 90,
+      "G": 56,
+      "B": 38
+    },
+    "HEX": "#5A3826",
+    "OFFICIAL_NAME": "Nut brown",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Орех",
+      "UKRAINIAN": "Горіх",
+      "ENGLISH": "Nut brown"
+    }
+  },
+  "RAL 8012": {
+    "RGB": {
+      "R": 102,
+      "G": 51,
+      "B": 43
+    },
+    "HEX": "#66332B",
+    "OFFICIAL_NAME": "Red brown",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Красно-коричневый",
+      "UKRAINIAN": "Червонувато-коричневий",
+      "ENGLISH": "Reddish brown"
+    }
+  },
+  "RAL 8014": {
+    "RGB": {
+      "R": 74,
+      "G": 53,
+      "B": 38
+    },
+    "HEX": "#4A3526",
+    "OFFICIAL_NAME": "Sepia brown",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Сепия",
+      "UKRAINIAN": "Сепія",
+      "ENGLISH": "Sepia"
+    }
+  },
+  "RAL 8015": {
+    "RGB": {
+      "R": 94,
+      "G": 47,
+      "B": 38
+    },
+    "HEX": "#5E2F26",
+    "OFFICIAL_NAME": "Chestnut brown",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Каштан",
+      "UKRAINIAN": "Каштан",
+      "ENGLISH": "Chestnut"
+    }
+  },
+  "RAL 8016": {
+    "RGB": {
+      "R": 76,
+      "G": 43,
+      "B": 32
+    },
+    "HEX": "#4C2B20",
+    "OFFICIAL_NAME": "Mahogany brown",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Махагон",
+      "UKRAINIAN": "Махагон",
+      "ENGLISH": "Mahogany"
+    }
+  },
+  "RAL 8017": {
+    "RGB": {
+      "R": 68,
+      "G": 47,
+      "B": 41
+    },
+    "HEX": "#442F29",
+    "OFFICIAL_NAME": "Chocolate brown",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Горький шоколад",
+      "UKRAINIAN": "Гіркий шоколад",
+      "ENGLISH": "Dark chocolate"
+    }
+  },
+  "RAL 8019": {
+    "RGB": {
+      "R": 61,
+      "G": 54,
+      "B": 53
+    },
+    "HEX": "#3D3635",
+    "OFFICIAL_NAME": "Grey brown",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Серо-коричневый",
+      "UKRAINIAN": "Сіро-коричневий",
+      "ENGLISH": "Greyish brown"
+    }
+  },
+  "RAL 8022": {
+    "RGB": {
+      "R": 26,
+      "G": 23,
+      "B": 24
+    },
+    "HEX": "#1A1718",
+    "OFFICIAL_NAME": "Black brown",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Почти чёрный",
+      "UKRAINIAN": "Майже чорний",
+      "ENGLISH": "Almost black"
+    }
+  },
+  "RAL 8023": {
+    "RGB": {
+      "R": 164,
+      "G": 87,
+      "B": 41
+    },
+    "HEX": "#A45729",
+    "OFFICIAL_NAME": "Orange brown",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Апельсиново-коричневый",
+      "UKRAINIAN": "Помаранчево-коричневий",
+      "ENGLISH": "Orange-brown"
+    }
+  },
+  "RAL 8024": {
+    "RGB": {
+      "R": 121,
+      "G": 80,
+      "B": 56
+    },
+    "HEX": "#795038",
+    "OFFICIAL_NAME": "Beige brown",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Бежево-коричневый",
+      "UKRAINIAN": "Бежево-коричневий",
+      "ENGLISH": "Beige brown"
+    }
+  },
+  "RAL 8025": {
+    "RGB": {
+      "R": 117,
+      "G": 88,
+      "B": 71
+    },
+    "HEX": "#755847",
+    "OFFICIAL_NAME": "Pale brown",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Светлый кофе",
+      "UKRAINIAN": "Світла кава",
+      "ENGLISH": "Light coffee brown"
+    }
+  },
+  "RAL 8028": {
+    "RGB": {
+      "R": 81,
+      "G": 58,
+      "B": 42
+    },
+    "HEX": "#513A2A",
+    "OFFICIAL_NAME": "Terra brown",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Земля",
+      "UKRAINIAN": "Земля",
+      "ENGLISH": "Earth brown"
+    }
+  },
+  "RAL 8029": {
+    "RGB": {
+      "R": 127,
+      "G": 64,
+      "B": 49
+    },
+    "HEX": "#7F4031",
+    "OFFICIAL_NAME": "Pearl copper",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Перламутровая медь",
+      "UKRAINIAN": "Перламутрова мідь",
+      "ENGLISH": "Pearl copper"
+    }
+  },
+  "RAL 9001": {
+    "RGB": {
+      "R": 233,
+      "G": 224,
+      "B": 210
+    },
+    "HEX": "#E9E0D2",
+    "OFFICIAL_NAME": "Cream",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Кремовый",
+      "UKRAINIAN": "Кремовий",
+      "ENGLISH": "Cream"
+    }
+  },
+  "RAL 9002": {
+    "RGB": {
+      "R": 215,
+      "G": 213,
+      "B": 203
+    },
+    "HEX": "#D7D5CB",
+    "OFFICIAL_NAME": "Grey white",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Сероватый белый",
+      "UKRAINIAN": "Сіруватий білий",
+      "ENGLISH": "Greyish white"
+    }
+  },
+  "RAL 9003": {
+    "RGB": {
+      "R": 236,
+      "G": 236,
+      "B": 231
+    },
+    "HEX": "#ECECE7",
+    "OFFICIAL_NAME": "Signal white",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Ярко-белый",
+      "UKRAINIAN": "Яскраво-білий",
+      "ENGLISH": "Signal white"
+    }
+  },
+  "RAL 9004": {
+    "RGB": {
+      "R": 43,
+      "G": 43,
+      "B": 44
+    },
+    "HEX": "#2B2B2C",
+    "OFFICIAL_NAME": "Signal black",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Насичений чёрный",
+      "UKRAINIAN": "Насичений чорний",
+      "ENGLISH": "Deep black"
+    }
+  },
+  "RAL 9005": {
+    "RGB": {
+      "R": 14,
+      "G": 14,
+      "B": 16
+    },
+    "HEX": "#0E0E10",
+    "OFFICIAL_NAME": "Jet black",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Абсолютный чёрный",
+      "UKRAINIAN": "Абсолютно чорний",
+      "ENGLISH": "Pure black"
+    }
+  },
+  "RAL 9006": {
+    "RGB": {
+      "R": 161,
+      "G": 161,
+      "B": 160
+    },
+    "HEX": "#A1A1A0",
+    "OFFICIAL_NAME": "White aluminium",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Алюминий светлый",
+      "UKRAINIAN": "Світлий алюміній",
+      "ENGLISH": "Light aluminium"
+    }
+  },
+  "RAL 9007": {
+    "RGB": {
+      "R": 135,
+      "G": 133,
+      "B": 129
+    },
+    "HEX": "#878581",
+    "OFFICIAL_NAME": "Grey aluminium",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Алюминий серый",
+      "UKRAINIAN": "Сірий алюміній",
+      "ENGLISH": "Grey aluminium"
+    }
+  },
+  "RAL 9010": {
+    "RGB": {
+      "R": 241,
+      "G": 236,
+      "B": 225
+    },
+    "HEX": "#F1ECE1",
+    "OFFICIAL_NAME": "Pure white",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Чистый белый",
+      "UKRAINIAN": "Чистий білий",
+      "ENGLISH": "Pure white"
+    }
+  },
+  "RAL 9011": {
+    "RGB": {
+      "R": 39,
+      "G": 41,
+      "B": 43
+    },
+    "HEX": "#27292B",
+    "OFFICIAL_NAME": "Graphite black",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Графитовый",
+      "UKRAINIAN": "Графітовий",
+      "ENGLISH": "Graphite black"
+    }
+  },
+  "RAL 9016": {
+    "RGB": {
+      "R": 241,
+      "G": 240,
+      "B": 234
+    },
+    "HEX": "#F1F0EA",
+    "OFFICIAL_NAME": "Traffic white",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Уличный белый",
+      "UKRAINIAN": "Вуличний білий",
+      "ENGLISH": "Traffic white"
+    }
+  },
+  "RAL 9017": {
+    "RGB": {
+      "R": 42,
+      "G": 41,
+      "B": 42
+    },
+    "HEX": "#2A292A",
+    "OFFICIAL_NAME": "Traffic black",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Уличный чёрный",
+      "UKRAINIAN": "Вуличний чорний",
+      "ENGLISH": "Traffic black"
+    }
+  },
+  "RAL 9018": {
+    "RGB": {
+      "R": 200,
+      "G": 203,
+      "B": 196
+    },
+    "HEX": "#C8CBC4",
+    "OFFICIAL_NAME": "Papyrus white",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "Бело-серый (папирус)",
+      "UKRAINIAN": "Біло-сірий (папірус)",
+      "ENGLISH": "Papyrus white"
+    }
+  },
+  "RAL 9022": {
+    "RGB": {
+      "R": 133,
+      "G": 133,
+      "B": 131
+    },
+    "HEX": "#858583",
+    "OFFICIAL_NAME": "Pearl light grey",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "9022",
+      "UKRAINIAN": "9022",
+      "ENGLISH": "9022"
+    }
+  },
+  "RAL 9023": {
+    "RGB": {
+      "R": 121,
+      "G": 123,
+      "B": 122
+    },
+    "HEX": "#797B7A",
+    "OFFICIAL_NAME": "Pearl dark grey",
+    "ASSOCIATIVE": {
+      "RUSSIAN": "9023",
+      "UKRAINIAN": "9023",
+      "ENGLISH": "9023"
+    }
+  }
+}
