@@ -1,6 +1,6 @@
 # 🎨 Color-System
 
-**Color-System** is a collection of color catalogs presented in JSON format. The project collects and structures popular color systems (such as RAL, NCS, CAPAROL, and others) for use in applications, design, visualization, manufacturing, and more.
+**Color-System** is a collection of color catalogs presented in JSON format. The project collects and structures popular color systems (such as RAL, NCS, CAPAROL) for use in applications, design, visualization, manufacturing, and more.
 
 ## 📦 Catalogs
 
@@ -52,7 +52,7 @@ cd Color-System
 
 # 🎨 Color-System
 
-**Color-System** — это коллекция цветовых каталогов, представленных в формате JSON. Проект собирает и структурирует популярные системы цветов (например, RAL, NCS, Pantone и другие) для использования в приложениях, дизайне, визуализации, производстве и т.д.
+**Color-System** — это коллекция цветовых каталогов, представленных в формате JSON. Проект собирает и структурирует популярные системы цветов (RAL, NCS, CAPAROL) для использования в приложениях, дизайне, визуализации, производстве и т.д.
 
 ## 📦 Каталоги
 
